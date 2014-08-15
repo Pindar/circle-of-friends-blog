@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: Vorsicht!!!
+author:
+  display_name: Braunbaer
+  login: Braunbaer
+  
+  url: http://
+author_login: Braunbaer
+
+author_url: http://
+wordpress_id: 24
+wordpress_url: http://www.pindarsign.de/webblog/?p=24
+date: '2007-03-01 17:35:52 +0100'
+date_gmt: '2007-03-01 16:35:52 +0100'
+categories:
+- Allgemein
+tags: []
+comments:
+- id: 20
+  author: NimroT
+  
+  author_url: ''
+  date: '2007-03-01 19:00:04 +0100'
+  date_gmt: '2007-03-01 18:00:04 +0100'
+  content: Ich dachte die sind Richtung Paris unterwegs?
+- id: 21
+  author: Pindar
+  
+  author_url: http://www.pindarsign.de
+  date: '2007-03-01 20:41:54 +0100'
+  date_gmt: '2007-03-01 19:41:54 +0100'
+  content: Ja, angeblich waren die auch schon dort... Schaun wir mal, wie&Acirc;&acute;s
+    ausgeht...
+- id: 22
+  author: NimroT
+  
+  author_url: ''
+  date: '2007-03-01 20:55:42 +0100'
+  date_gmt: '2007-03-01 19:55:42 +0100'
+  content: das ist dann wohl der Nachteil vom Schengener Abkommen.... da k&Atilde;&para;nnte
+    ich auf das billige Benzin wirklich verzichten.
+---
+<p>Passau ist ein gef&Atilde;&curren;hrliches Pflaster: <a href="http:&#47;&#47;www.polizei.bayern.de&#47;niederbayern&#47;passau&#47;news&#47;presse&#47;aktuell&#47;index.html&#47;35391">Artikel<&#47;a></p>

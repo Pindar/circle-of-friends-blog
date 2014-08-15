@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: Twitter
+author: NimroT 
+author_login: NimroT
+author_url: http://
+wordpress_id: 894
+wordpress_url: http://www.pindarsign.de/webblog/?p=894
+date: '2009-07-07 14:11:29 +0200'
+date_gmt: '2009-07-07 12:11:29 +0200'
+categories:
+- Allgemein
+tags: []
+comments:
+- id: 39794
+  author: Pindar
+  author_url: ''
+  date: '2009-07-07 14:25:17 +0200'
+  date_gmt: '2009-07-07 12:25:17 +0200'
+  content: ich bin als SimonITNotes zu finden.
+- id: 39795
+  author: Strahler
+  author_url: ''
+  date: '2009-07-07 15:38:52 +0200'
+  date_gmt: '2009-07-07 13:38:52 +0200'
+  content: Ich twittere nicht.
+- id: 39799
+  author: michi
+  author_url: ''
+  date: '2009-07-08 21:06:40 +0200'
+  date_gmt: '2009-07-08 19:06:40 +0200'
+  content: ich hab den namen mesite. aber ich schreib ned wirklich was. ab und zu
+    mal, um programme zu testen oder plugins.
+---
+<p>Nachdem man ja mittlerweile kaum mehr dran vorbeikommt, f&Atilde;&frac14;hle ich mich schon fast gezwungen mal zu fragen:<br />
+Twittert einer von euch? Falls ja: unter welchem Namen?</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: MacBook....
+author:
+  display_name: Pindar
+  login: Pindar
+  
+  url: http://www.pindarsign.de
+author_login: Pindar
+
+author_url: http://www.pindarsign.de
+wordpress_id: 708
+wordpress_url: http://www.pindarsign.de/webblog/?p=708
+date: '2009-01-07 18:55:57 +0100'
+date_gmt: '2009-01-07 17:55:57 +0100'
+categories:
+- Apple
+tags:
+- joke
+- apple
+- unsinn
+- spa&Atilde;&Yuml;
+comments: []
+---
+<p>Auch auf die Gefahr hin, dass ihr das Video schon kennt, ich fand's einfach super:</p>
+<p><embed src="http:&#47;&#47;www.theonion.com&#47;content&#47;themes&#47;common&#47;assets&#47;videoplayer2&#47;flvplayer.swf" type="application&#47;x-shockwave-flash" allowScriptAccess="always" wmode="transparent" width="400" height="355" flashvars="file=http:&#47;&#47;www.theonion.com&#47;content&#47;xml&#47;92328&#47;video&autostart=false&image=http:&#47;&#47;www.theonion.com&#47;content&#47;files&#47;images&#47;NO_KEYBOARD_article.jpg&bufferlength=3&embedded=true&title=Apple%20Introduces%20Revolutionary%20New%20Laptop%20With%20No%20Keyboard"><&#47;embed><br&#47;><a href="http:&#47;&#47;www.theonion.com&#47;content&#47;video&#47;apple_introduces_revolutionary?utm_source=embedded_video">Apple Introduces Revolutionary New Laptop With No Keyboard<&#47;a></p>

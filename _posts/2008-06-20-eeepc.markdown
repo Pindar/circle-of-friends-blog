@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: EeePC
+author:
+  display_name: NimroT
+  login: NimroT
+  
+  url: http://
+author_login: NimroT
+
+author_url: http://
+wordpress_id: 123
+wordpress_url: http://www.pindarsign.de/webblog/?p=123
+date: '2008-06-20 16:09:14 +0200'
+date_gmt: '2008-06-20 14:09:14 +0200'
+categories:
+- Allgemein
+tags: []
+comments:
+- id: 2325
+  author: Pindar
+  
+  author_url: http://www.pindarsign.de
+  date: '2008-06-20 16:20:22 +0200'
+  date_gmt: '2008-06-20 14:20:22 +0200'
+  content: Ein Link zu einer Quelle wo man sich das Teil im Internet anschauen k&Atilde;&para;nnte,
+    w&Atilde;&curren;re super! Wie Du wahrscheinlich mitbekommen hast, besch&Atilde;&curren;ftige
+    ich mich derzeit &Atilde;&frac14;berhaupt nicht mit neuer Hardware und bin deshalb
+    total unterinformiert :(
+- id: 2326
+  author: NimroT
+  
+  author_url: ''
+  date: '2008-06-20 17:24:25 +0200'
+  date_gmt: '2008-06-20 15:24:25 +0200'
+  content: "http:&#47;&#47;eeepc.asus.com&#47;de&#47;index.htm\r\n\r\nAber ich finde,
+    die Faszination kommt er richtig r&Atilde;&frac14;ber wenn man in der Realit&Atilde;&curren;t
+    sieht, wie klein 7 Zoll eigentlich."
+- id: 2327
+  author: Strahler
+  
+  author_url: ''
+  date: '2008-06-21 10:39:21 +0200'
+  date_gmt: '2008-06-21 08:39:21 +0200'
+  content: "In ITS vom Luko sitzt einer drin der hat den eeePC 700.\r\n\r\nHab das
+    Teil gleich mal von allen Seiten begutachtet und kam zum Ergebnis: Wieso schenken
+    die soviel Platz f&Atilde;&frac14;r die sch... Lautsprecher her?!?!... Deppenhaffa!\r\nAber
+    KDE4.1 l&Atilde;&curren;uft ziemlich fl&Atilde;&frac14;ssig."
+---
+<p>Gestern konnte ich zum ersten Mal einen EeePC von Asus in H&Atilde;&curren;nden halten. Abgesehen von allen objektiven Vor- und Nachteilen des Ger&Atilde;&curren;ts (die wahrscheinlich schon keiner mehr h&Atilde;&para;ren kann) muss ich ganz subjektiv sagen: der EeePC ist echt verdammt klein und leicht!</p>
