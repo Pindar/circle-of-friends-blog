@@ -16,3 +16,5 @@ relative_permalinks: true
 # Gems
 gems:
   - jekyll-redirect-from
+
+base_path : /circle-of-friends-blog/
