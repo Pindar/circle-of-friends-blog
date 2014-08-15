@@ -27,6 +27,6 @@ comments:
   date_gmt: '2008-11-12 13:27:57 +0100'
   content: word ... :)
 ---
-<p><a href="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;11&#47;front.jpg"><img class="alignleft size-medium wp-image-566" title="front" src="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;11&#47;front-211x300.jpg" alt="" width="211" height="300" &#47;><br />
-<&#47;a>Aufgrund der Tatsache, dass seit Jahren in der Politik zwar permanent die Bildungspolitik als Kernpunkt benannt wird, sich jedoch jeher nichts &Atilde;&curren;ndert, m&Atilde;&para;chte ich mich hier mit den streikenden Sch&Atilde;&frac14;lern solidarisieren.</p>
-<p>Es wird Zeit f&Atilde;&frac14;r eine Umfassende Schulreform, die ein Gesamtkonzept repr&Atilde;&curren;sentiert. Gerade auch im Interesse unserer Zukunft und unserer (zuk&Atilde;&frac14;nftigen) Kinder.</p>
+<p><a href="http://www.pindarsign.de/webblog/wp-content/uploads/2008/11/front.jpg"><img class="alignleft size-medium wp-image-566" title="front" src="http://www.pindarsign.de/webblog/wp-content/uploads/2008/11/front-211x300.jpg" alt="" width="211" height="300" /><br />
+</a>Aufgrund der Tatsache, dass seit Jahren in der Politik zwar permanent die Bildungspolitik als Kernpunkt benannt wird, sich jedoch jeher nichts ändert, möchte ich mich hier mit den streikenden Schülern solidarisieren.</p>
+<p>Es wird Zeit für eine Umfassende Schulreform, die ein Gesamtkonzept repräsentiert. Gerade auch im Interesse unserer Zukunft und unserer (zukünftigen) Kinder.</p>

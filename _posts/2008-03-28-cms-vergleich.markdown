@@ -22,4 +22,4 @@ tags:
 - cms
 comments: []
 ---
-<p>F&Atilde;&frac14;r alle die sich einmal f&Atilde;&frac14;r oder gegen ein CMS (Content-Mangement-System) entscheiden m&Atilde;&frac14;ssen, gibt es jetzt eine praktische Seite: Auf&Acirc;&nbsp;<a href="http:&#47;&#47;www.cmsmatrix.org&#47;matrix" target="_blank">http:&#47;&#47;www.cmsmatrix.org&#47;matrix<&#47;a>&Acirc;&nbsp;kann man bis zu zehn verschiedene CMS aus einer Liste von &Atilde;&frac14;ber 100 ausw&Atilde;&curren;hlen und diese miteinander vergleichen. Eine sehr praktische Funktion, finde ich.</p>
+<p>Für alle die sich einmal für oder gegen ein CMS (Content-Mangement-System) entscheiden müssen, gibt es jetzt eine praktische Seite: Auf&Acirc;&nbsp;<a href="http://www.cmsmatrix.org/matrix" target="_blank">http://www.cmsmatrix.org/matrix</a>&Acirc;&nbsp;kann man bis zu zehn verschiedene CMS aus einer Liste von über 100 auswählen und diese miteinander vergleichen. Eine sehr praktische Funktion, finde ich.</p>

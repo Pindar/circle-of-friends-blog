@@ -25,4 +25,4 @@ tags:
 comments: []
 ---
 <p>Benedikt Lang stellt auf seinem Blog ein Firefox Tool kurz vor, welches vielen gute Dienste leisten kann. Am besten ihr lest selbst und probiert es danach selbst aus:</p>
-<p><a title="Read it later" href="http:&#47;&#47;benediktlang.de&#47;2008&#47;08&#47;26&#47;read-it-later-firefox-extension&#47;" target="_blank">http:&#47;&#47;benediktlang.de&#47;2008&#47;08&#47;26&#47;read-it-later-firefox-extension&#47;<&#47;a></p>
+<p><a title="Read it later" href="http://benediktlang.de/2008/08/26/read-it-later-firefox-extension/" target="_blank">http://benediktlang.de/2008/08/26/read-it-later-firefox-extension/</a></p>

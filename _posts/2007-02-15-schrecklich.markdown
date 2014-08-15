@@ -21,5 +21,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.schwabmuenchner-allgemeine.de&#47;Home&#47;Nachrichten&#47;Bayern&#47;sptnid,7_puid,1_arid,891727_regid,15.htmlmuenchner-allgemeine.de&#47;Home&#47;Nachrichten&#47;Bayern&#47;sptnid,7_puid,1_arid,891727_regid,15.html" title="Studentin in Passau brutal ermordert" target="_blank">Zum Artikel...<&#47;a></p>
+<p><a href="http://www.schwabmuenchner-allgemeine.de/Home/Nachrichten/Bayern/sptnid,7_puid,1_arid,891727_regid,15.htmlmuenchner-allgemeine.de/Home/Nachrichten/Bayern/sptnid,7_puid,1_arid,891727_regid,15.html" title="Studentin in Passau brutal ermordert" target="_blank">Zum Artikel...</a></p>
 <p>Mir fehlen die Worte - einfach nur furchtbar.</p>

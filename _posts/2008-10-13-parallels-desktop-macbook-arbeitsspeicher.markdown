@@ -26,12 +26,12 @@ comments:
   date: '2008-10-13 09:18:13 +0200'
   date_gmt: '2008-10-13 07:18:13 +0200'
   content: "Hallo!\r\nIch benutze VMWare Fusion in der 2er Version und bin damit sehr
-    zufrieden.\r\nEs l&Atilde;&curren;uft bei mir mit 2 Gb Ram vern&Atilde;&frac14;nftig,
+    zufrieden.\r\nEs läuft bei mir mit 2 Gb Ram vernünftig,
     jedoch ist mehr besser, falls man auch noch unter Mac Eclipse offen haben will.
-    In Dein Notebook kannst Du &Atilde;&frac14;brigens 4 Gb stecken, denn es gibt
-    nur die Ausf&Atilde;&frac14;hrungen 2 und 4. Da Du schon den Nachfolger meines
-    MacBooks hast, kannst Du es mit 4 Gb begl&Atilde;&frac14;cken.\r\nBei mir funktionieren
-    &Atilde;&frac14;brigens alle Programme, auch Entwicklungsumgebungen wie Eclipse,
+    In Dein Notebook kannst Du übrigens 4 Gb stecken, denn es gibt
+    nur die Ausführungen 2 und 4. Da Du schon den Nachfolger meines
+    MacBooks hast, kannst Du es mit 4 Gb beglücken.\r\nBei mir funktionieren
+    übrigens alle Programme, auch Entwicklungsumgebungen wie Eclipse,
     MS Visual usw.\r\n\r\nParallels kenne ich nicht. -- Dann mal viel Erfolg dabei!"
 - id: 15387
   author: NimroT
@@ -39,8 +39,8 @@ comments:
   author_url: ''
   date: '2008-10-13 09:37:09 +0200'
   date_gmt: '2008-10-13 07:37:09 +0200'
-  content: Vielen Dank f&Atilde;&frac14;r die schnellen Ratschl&Atilde;&curren;ge.
-    Ich wusste gar nicht, dass es VMWare auch f&Atilde;&frac14;r den Mac gibt (dachte
+  content: Vielen Dank für die schnellen Ratschläge.
+    Ich wusste gar nicht, dass es VMWare auch für den Mac gibt (dachte
     immer, du benutzt Parallels ;-) ). Damit habe ich unter Windows auch schon gute
     Erfahrungen gemacht. Ich werde dann da auch mal einen Blick drauf werfen.
 - id: 15449
@@ -49,16 +49,16 @@ comments:
   author_url: http://mesite.de/webblog
   date: '2008-10-13 15:49:03 +0200'
   date_gmt: '2008-10-13 13:49:03 +0200'
-  content: "hey nimrot.\r\nich benutze auch vmware fusion und es l&Atilde;&curren;uft
-    super. ich hab die meiste zeit 1gb f&Atilde;&frac14;r mac und 1gb f&Atilde;&frac14;r
-    windows zugewiesen... dann l&Atilde;&curren;uft es schon gut. aber wenn du mehr
+  content: "hey nimrot.\r\nich benutze auch vmware fusion und es läuft
+    super. ich hab die meiste zeit 1gb für mac und 1gb für
+    windows zugewiesen... dann läuft es schon gut. aber wenn du mehr
     mit windows machen musst, kannst ja jederzeit mehr arbeitsspeicher zuweisen. und
-    das sch&Atilde;&para;ne ist, wenn du die darstellung auf unity &Atilde;&curren;nderst,
+    das schöne ist, wenn du die darstellung auf unity änderst,
     kannst du die windows und mac-programme beliebig gemischt auf dem desktop haben...
-    ist eine super l&Atilde;&para;sung. hab geh&Atilde;&para;rt es gibt auch mittlerweile
-    eine gute kostenlose m&Atilde;&para;glichkeit des emulierens mit dem namen virtualbox\r\nhttp:&#47;&#47;www.virtualbox.org&#47;wiki&#47;Downloads
+    ist eine super lösung. hab gehört es gibt auch mittlerweile
+    eine gute kostenlose möglichkeit des emulierens mit dem namen virtualbox\r\nhttp://www.virtualbox.org/wiki/Downloads
     \r\nkannst dir gerne mal anschauen.\r\naber ich kann vmware nur empfehlen;-)\r\ndenk
-    ich sprech da auch f&Atilde;&frac14;r pindar:-)\r\nsch&Atilde;&para;ne gr&Atilde;&frac14;&Atilde;&Yuml;e,\r\nMichi"
+    ich sprech da auch für pindar:-)\r\nschöne grüße,\r\nMichi"
 - id: 15470
   author: Pindar
   
@@ -68,7 +68,7 @@ comments:
   content: "^^Korrekt. Fusion ist Top."
 ---
 <p>Guten Morgen Gemeinde ;-)</p>
-<p>da die Entwicklungsumgebung, die ich f&Atilde;&frac14;r meine Diplomarbeit brauche, nur unter Windows l&Atilde;&curren;uft, bin ich momentan dabei, mein Macbook f&Atilde;&frac14;r Parallels fit zu machen. Vielleicht hat der ein odere andere von euch schon eine Antwort auf folgende Fragen gefunden (Google war da ziemlich unentschlossen):</p>
-<p>-funktionieren Windows Programme richtig unter Parallels (oder werde ich am Ende doch Boot Camp nutzen m&Atilde;&frac14;ssen)?</p>
-<p>-Wieviel Arbeitsspeicher braucht man um unter Parallels vern&Atilde;&frac14;nftig zu arbeiten? 2GB oder 4GB? Kann das Macbook &Atilde;&frac14;berhaupt mehr als 3GB verwenden?</p>
-<p>Wie ihr seht bin ich leicht verwirrt, deswegen w&Atilde;&curren;re ich euch f&Atilde;&frac14;r jeglichen Tipp sehr dankbar.</p>
+<p>da die Entwicklungsumgebung, die ich für meine Diplomarbeit brauche, nur unter Windows läuft, bin ich momentan dabei, mein Macbook für Parallels fit zu machen. Vielleicht hat der ein odere andere von euch schon eine Antwort auf folgende Fragen gefunden (Google war da ziemlich unentschlossen):</p>
+<p>-funktionieren Windows Programme richtig unter Parallels (oder werde ich am Ende doch Boot Camp nutzen müssen)?</p>
+<p>-Wieviel Arbeitsspeicher braucht man um unter Parallels vernünftig zu arbeiten? 2GB oder 4GB? Kann das Macbook überhaupt mehr als 3GB verwenden?</p>
+<p>Wie ihr seht bin ich leicht verwirrt, deswegen wäre ich euch für jeglichen Tipp sehr dankbar.</p>

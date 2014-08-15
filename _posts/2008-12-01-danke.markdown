@@ -30,17 +30,17 @@ comments:
   author_url: http://mesite.de/webblog
   date: '2008-12-01 20:36:24 +0100'
   date_gmt: '2008-12-01 19:36:24 +0100'
-  content: Video wurde bei Youtube gel&Atilde;&para;scht
+  content: Video wurde bei Youtube gelöscht
 - id: 37920
   author: Strahler
   
   author_url: http://
   date: '2008-12-02 01:56:41 +0100'
   date_gmt: '2008-12-02 00:56:41 +0100'
-  content: "Danke f&Atilde;&frac14;r den Hinweis Michi!\r\nSorry guys... dann k&Atilde;&para;nnt
-    ihr euch leider nicht anschauen wie sich die Simpsons &Atilde;&frac14;ber Apple
+  content: "Danke für den Hinweis Michi!\r\nSorry guys... dann könnt
+    ihr euch leider nicht anschauen wie sich die Simpsons über Apple
     lustig machen :-("
 ---
 <p>Sessen mitnander,</p>
-<p>mei, was soll ma da noch hinzuf&Atilde;&frac14;gen. :-D Bussi!</p>
+<p>mei, was soll ma da noch hinzufügen. :-D Bussi!</p>
 <p>[youtube gTH-aLsVFFs]</p>

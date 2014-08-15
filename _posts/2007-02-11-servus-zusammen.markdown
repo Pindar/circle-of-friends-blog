@@ -21,6 +21,6 @@ tags: []
 comments: []
 ---
 <p>Hallo zusammen,</p>
-<p>Bayern ist das ehemalige Ruhrgebiet Deutschlands. Strukturstark, geringe Arbeitslosigkeit und ein sehr hohes Prokopfeinkommen. Die Welt scheint hier auf den ersten Blick noch in Ordnung zu sein. Ein Bild das den meisten Touristen im Kopf herumschwirrt sind K&Atilde;&frac14;he, die Stra&Atilde;&Yuml;en blockieren, Autobahnen und Almen, die zumeist flie&Atilde;&Yuml;end Wasser besitzen.<br />
+<p>Bayern ist das ehemalige Ruhrgebiet Deutschlands. Strukturstark, geringe Arbeitslosigkeit und ein sehr hohes Prokopfeinkommen. Die Welt scheint hier auf den ersten Blick noch in Ordnung zu sein. Ein Bild das den meisten Touristen im Kopf herumschwirrt sind Kühe, die Straßen blockieren, Autobahnen und Almen, die zumeist fließend Wasser besitzen.<br />
 Ist es aber wirklich so oder hat die Urlaubspropaganda ihr Ziel erreicht eine Idylle innerhalb unserer hektischen Welt zu kreieren?<br />
-Viel Spa&Atilde;&Yuml; beim Lesen!!!</p>
+Viel Spaß beim Lesen!!!</p>

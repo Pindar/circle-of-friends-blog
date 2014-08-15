@@ -38,4 +38,4 @@ comments:
   date_gmt: '2011-07-07 20:31:55 +0200'
   content: Yo, that's what's up truthfluly.
 ---
-<p>Mittlerweile haben sich auch einige andere flei&Atilde;&Yuml;ige Personen daran gesetzt tolle Erweiterungen f&Atilde;&frac14;r unser Apple-Lexikon-Programm zu schreiben. Eine&Acirc;&nbsp;<a href="http:&#47;&#47;www.tekl.de&#47;deutsch&#47;Lexikon-Plugins.html" target="_blank">sch&Atilde;&para;ne &Atilde;&oelig;bersicht<&#47;a>&Acirc;&nbsp;&Atilde;&frac14;ber die meisten verf&Atilde;&frac14;gbaren Plugins erstellte "Tekl", vielen Dank daf&Atilde;&frac14;r! Und euch viel Spa&Atilde;&Yuml; beim ausprobieren!</p>
+<p>Mittlerweile haben sich auch einige andere fleißige Personen daran gesetzt tolle Erweiterungen für unser Apple-Lexikon-Programm zu schreiben. Eine&Acirc;&nbsp;<a href="http://www.tekl.de/deutsch/Lexikon-Plugins.html" target="_blank">schöne Übersicht</a>&Acirc;&nbsp;über die meisten verfügbaren Plugins erstellte "Tekl", vielen Dank dafür! Und euch viel Spaß beim ausprobieren!</p>

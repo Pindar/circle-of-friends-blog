@@ -25,7 +25,7 @@ comments:
   author_url: ''
   date: '2008-07-08 16:09:51 +0200'
   date_gmt: '2008-07-08 14:09:51 +0200'
-  content: s&Atilde;&frac14;&Atilde;&Yuml; :-)
+  content: süß :-)
 - id: 2886
   author: Michi
   

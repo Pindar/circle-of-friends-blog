@@ -34,5 +34,5 @@ comments:
   content: ich hab den namen mesite. aber ich schreib ned wirklich was. ab und zu
     mal, um programme zu testen oder plugins.
 ---
-<p>Nachdem man ja mittlerweile kaum mehr dran vorbeikommt, f&Atilde;&frac14;hle ich mich schon fast gezwungen mal zu fragen:<br />
+<p>Nachdem man ja mittlerweile kaum mehr dran vorbeikommt, fühle ich mich schon fast gezwungen mal zu fragen:<br />
 Twittert einer von euch? Falls ja: unter welchem Namen?</p>

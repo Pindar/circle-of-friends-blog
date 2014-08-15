@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Der Anfang des Sommersemesters ist gerettet: <a href="http:&#47;&#47;www.cocktailbude.de&#47;index.php?action=homepage%2Fview">CocktailBude<&#47;a> verschickt Cocktails zum selbermischen. Von der Idee (und von der Aufmachung der Homepage) ist das Projekt den M&Atilde;&frac14;sli-Jungs aus Passau sehr &Atilde;&curren;hnlich.</p>
+<p>Der Anfang des Sommersemesters ist gerettet: <a href="http://www.cocktailbude.de/index.php?action=homepage%2Fview">CocktailBude</a> verschickt Cocktails zum selbermischen. Von der Idee (und von der Aufmachung der Homepage) ist das Projekt den Müsli-Jungs aus Passau sehr ähnlich.</p>

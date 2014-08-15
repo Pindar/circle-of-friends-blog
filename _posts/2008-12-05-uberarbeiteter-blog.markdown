@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "&Atilde;&oelig;berarbeiteter Blog..."
+title: "Überarbeiteter Blog..."
 author:
   display_name: Pindar
   login: Pindar
@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>... hallo geneigte Leserschaft. Heute &Atilde;&frac14;berkam es mich das Design der Seite zu &Atilde;&curren;ndern und auch die Kategorienlandschaft zu &Atilde;&curren;ndern, sowie eine Suche einzubauen, da ich selbst manche Artikel nicht mehr wiederfand. Es fiel zwar der sch&Atilde;&para;ne Vogel der Aktion zum Opfer, jedoch hoffe ich, dass es euch im allgemeinen gef&Atilde;&curren;llt.</p>
-<p>Bei W&Atilde;&frac14;nschen: Kommentar schreiben :D</p>
+<p>... hallo geneigte Leserschaft. Heute überkam es mich das Design der Seite zu ändern und auch die Kategorienlandschaft zu ändern, sowie eine Suche einzubauen, da ich selbst manche Artikel nicht mehr wiederfand. Es fiel zwar der schöne Vogel der Aktion zum Opfer, jedoch hoffe ich, dass es euch im allgemeinen gefällt.</p>
+<p>Bei Wünschen: Kommentar schreiben :D</p>

@@ -17,12 +17,12 @@ date: '2008-02-13 22:21:16 +0100'
 date_gmt: '2008-02-13 21:21:16 +0100'
 categories:
 - Politik
-- Universit&Atilde;&curren;t
+- Universität
 tags:
 - uni
 - bachelor
 - studium
 comments: []
 ---
-<p>Mehr als jeder vierte bricht sein Bachelor-Studium ab. Mehr brauche ich dar&Atilde;&frac14;ber wohl nicht schreiben.</p>
-<p>Quelle: <a href="http:&#47;&#47;www.tagesschau.de&#47;inland&#47;bachelor2.html ">http:&#47;&#47;www.tagesschau.de&#47;inland&#47;bachelor2.html <&#47;a></p>
+<p>Mehr als jeder vierte bricht sein Bachelor-Studium ab. Mehr brauche ich darüber wohl nicht schreiben.</p>
+<p>Quelle: <a href="http://www.tagesschau.de/inland/bachelor2.html ">http://www.tagesschau.de/inland/bachelor2.html </a></p>

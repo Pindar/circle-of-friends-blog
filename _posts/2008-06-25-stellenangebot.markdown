@@ -27,4 +27,4 @@ comments:
   date_gmt: '2008-06-25 16:19:38 +0200'
   content: nice
 ---
-<p>Wer sich f&Atilde;&frac14;r einen Job bei der besten Softwareschmiede der Welt interessiert, den k&Atilde;&para;nnte das interessieren:  [youtube OOWNa5xJ5B8]</p>
+<p>Wer sich für einen Job bei der besten Softwareschmiede der Welt interessiert, den könnte das interessieren:  [youtube OOWNa5xJ5B8]</p>

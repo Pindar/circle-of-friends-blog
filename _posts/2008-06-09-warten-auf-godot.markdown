@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>und immer noch kein AppStore... ausserdem ist MobileMe doof und es gab keinen MacbookPro 12 Zoll f&Atilde;&frac14;r 400 Euro als EeePC Konkurrent ;-)</p>
+<p>und immer noch kein AppStore... ausserdem ist MobileMe doof und es gab keinen MacbookPro 12 Zoll für 400 Euro als EeePC Konkurrent ;-)</p>

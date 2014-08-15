@@ -37,4 +37,4 @@ comments:
   date_gmt: '2008-03-25 16:43:22 +0100'
   content: Des is a Audi, der darf des!
 ---
-<p><a title="Komischer Parkplatz" href="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;03&#47;kif_6097.JPG"><img src="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;03&#47;kif_6097.JPG" alt="Komischer Parkplatz" width="300" &#47;><&#47;a></p>
+<p><a title="Komischer Parkplatz" href="http://www.pindarsign.de/webblog/wp-content/uploads/2008/03/kif_6097.JPG"><img src="http://www.pindarsign.de/webblog/wp-content/uploads/2008/03/kif_6097.JPG" alt="Komischer Parkplatz" width="300" /></a></p>

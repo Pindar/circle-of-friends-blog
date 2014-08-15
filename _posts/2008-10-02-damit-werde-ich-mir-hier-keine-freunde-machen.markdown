@@ -25,7 +25,7 @@ comments:
   author_url: ''
   date: '2008-10-02 14:35:54 +0200'
   date_gmt: '2008-10-02 12:35:54 +0200'
-  content: "Hey... you can view pron on this thing! \r\nGro&Atilde;&Yuml;artig...
+  content: "Hey... you can view pron on this thing! \r\nGroßartig...
     Aber irgendwie typisch, dass Opera hier am besten Abschneidet."
 - id: 13056
   author: NimroT
@@ -41,15 +41,15 @@ comments:
   author_url: http://
   date: '2008-10-05 23:02:20 +0200'
   date_gmt: '2008-10-05 21:02:20 +0200'
-  content: "*husthust* lie&Atilde;&Yuml;t eigentlich deine Freunding den Blog? :P"
+  content: "*husthust* ließt eigentlich deine Freunding den Blog? :P"
 - id: 13955
   author: Pindar
   
   author_url: http://pindarsign.de/webblog
   date: '2008-10-06 09:37:22 +0200'
   date_gmt: '2008-10-06 07:37:22 +0200'
-  content: "Meinst mich oder NimroT?\r\nKann ich doch nicht's daf&Atilde;&frac14;r,
-    dass mir NimroT solche Sachen erz&Atilde;&curren;hlt..."
+  content: "Meinst mich oder NimroT?\r\nKann ich doch nicht's dafür,
+    dass mir NimroT solche Sachen erzählt..."
 - id: 13956
   author: Tobi
   
@@ -57,7 +57,7 @@ comments:
   date: '2008-10-06 09:38:23 +0200'
   date_gmt: '2008-10-06 07:38:23 +0200'
   content: "Na ja, kein Kommentar ... ich sehe mich als Safari-User total falsch verstanden
-    ;)\r\n\r\nAch ja: Paris ist ein Mistst&Atilde;&frac14;ck, also werd ich bestimmt
+    ;)\r\n\r\nAch ja: Paris ist ein Miststück, also werd ich bestimmt
     kein Opera-Newbie werden ..."
 - id: 14372
   author: fensterplatz
@@ -72,9 +72,9 @@ comments:
   author_url: ''
   date: '2008-10-08 10:50:57 +0200'
   date_gmt: '2008-10-08 08:50:57 +0200'
-  content: "nee, die ist nicht so in der Blogosph&Atilde;&curren;re unterwegs. Sorry
-    Pindar, aber sobald in meinem Leben wieder was Spannendes&#47;Interessantes passiert
+  content: "nee, die ist nicht so in der Blogosphäre unterwegs. Sorry
+    Pindar, aber sobald in meinem Leben wieder was Spannendes/Interessantes passiert
     werde ich wieder sinnvollere Dinge von mir geben ;-)\r\nMomentan ist nur ziemliche
-    Windstille bei mir (was ich in vollen Z&Atilde;&frac14;gen genie&Atilde;&Yuml;e)."
+    Windstille bei mir (was ich in vollen Zügen genieße)."
 ---
-<p>[caption id="" align="alignnone" width="400" caption="Typische Browser Benutzer ;-)"]<a href="http:&#47;&#47;operawatch.com&#47;wp-content&#47;uploads&#47;2008&#47;10&#47;typical-browser-users.png"><img class=" " src="http:&#47;&#47;operawatch.com&#47;wp-content&#47;uploads&#47;2008&#47;10&#47;typical-browser-users.png" alt="Typische Browser Benutzer ;-)" width="400" height="400" &#47;><&#47;a>[&#47;caption]</p>
+<p>[caption id="" align="alignnone" width="400" caption="Typische Browser Benutzer ;-)"]<a href="http://operawatch.com/wp-content/uploads/2008/10/typical-browser-users.png"><img class=" " src="http://operawatch.com/wp-content/uploads/2008/10/typical-browser-users.png" alt="Typische Browser Benutzer ;-)" width="400" height="400" /></a>[/caption]</p>

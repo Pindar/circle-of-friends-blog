@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Brockhaus ab 15. April kostenlos online verf&Atilde;&frac14;gbar.
+title: Brockhaus ab 15. April kostenlos online verfügbar.
 author:
   display_name: Pindar
   login: Pindar
@@ -23,5 +23,5 @@ tags:
 - elearning
 comments: []
 ---
-<p>Eben habe ich die Meldung gelesen, dass ab dem 15. April die gesamte "Brockhaus Enzyklop&Atilde;&curren;die" mit mehr als 300.000 Stichw&Atilde;&para;rtern online kostenlos angeboten wird. Da ich das f&Atilde;&frac14;r einen beachtlichen Schritt halte und die Qualit&Atilde;&curren;t der online verf&Atilde;&frac14;gbaren Lexika damit enorm verbessert wird, halte ich einen Blogeintrag daf&Atilde;&frac14;r gerechtfertigt. Ich bin gespannt, wie die Klickzahlen auf wikipedia zur&Atilde;&frac14;ckgehen, wenn man einen gepr&Atilde;&frac14;ften Text kostenlos bekommen kann.</p>
-<p>Quelle: <a href="http:&#47;&#47;ftd.de&#47;technik&#47;medien_internet&#47;:Brockhaus%20Internet&#47;316489.html" target="_blank">http:&#47;&#47;ftd.de&#47;technik&#47;medien_internet&#47;:Brockhaus%20Internet&#47;316489.html <&#47;a></p>
+<p>Eben habe ich die Meldung gelesen, dass ab dem 15. April die gesamte "Brockhaus Enzyklopädie" mit mehr als 300.000 Stichwörtern online kostenlos angeboten wird. Da ich das für einen beachtlichen Schritt halte und die Qualität der online verfügbaren Lexika damit enorm verbessert wird, halte ich einen Blogeintrag dafür gerechtfertigt. Ich bin gespannt, wie die Klickzahlen auf wikipedia zurückgehen, wenn man einen geprüften Text kostenlos bekommen kann.</p>
+<p>Quelle: <a href="http://ftd.de/technik/medien_internet/:Brockhaus%20Internet/316489.html" target="_blank">http://ftd.de/technik/medien_internet/:Brockhaus%20Internet/316489.html </a></p>

@@ -17,12 +17,12 @@ date: '2008-07-18 13:50:47 +0200'
 date_gmt: '2008-07-18 11:50:47 +0200'
 categories:
 - Passau
-- Universit&Atilde;&curren;t
+- Universität
 tags: []
 comments: []
 ---
-<p>Um der Fakult&Atilde;&curren;t einen Gefallen zu tun poste ich hier einen Link auf den neuen Masterstudiengang f&Atilde;&frac14;r IT-Sicherheit in Passau. Sicherlich ist der Studiengang interessant f&Atilde;&frac14;r alle Bacherlors.</p>
+<p>Um der Fakultät einen Gefallen zu tun poste ich hier einen Link auf den neuen Masterstudiengang für IT-Sicherheit in Passau. Sicherlich ist der Studiengang interessant für alle Bacherlors.</p>
 <p>Weblinks:</p>
 <ul>
-<li> <a href="http:&#47;&#47;www.isl.uni-passau.de&#47;isl-home&#47;master.html">Master IT-Sicherheit<&#47;a>.<&#47;li><br />
-<&#47;ul></p>
+<li> <a href="http://www.isl.uni-passau.de/isl-home/master.html">Master IT-Sicherheit</a>.</li><br />
+</ul></p>

@@ -23,4 +23,4 @@ tags:
 - canvas
 comments: []
 ---
-<p>Da Radiohead die Daten zu ihrem Video House of Cards in Googlecode frei verf&Atilde;&frac14;gbar gemacht haben, konnten sich auch andere daran machen eigene Experimente damit durchzuf&Atilde;&frac14;hren. Auf <a href="http:&#47;&#47;www.nihilogic.dk&#47;labs&#47;radiohead-meets-javascript&#47;">Nihilogic : Javascript Visualization Demo - Radiohead 'House of Cards'<&#47;a> findet ihr eine Visualisierung der Daten mit JavaScript und Canvas (Funktioniert nicht im IE). Viel Spa&Atilde;&Yuml; beim ausprobieren.</p>
+<p>Da Radiohead die Daten zu ihrem Video House of Cards in Googlecode frei verfügbar gemacht haben, konnten sich auch andere daran machen eigene Experimente damit durchzuführen. Auf <a href="http://www.nihilogic.dk/labs/radiohead-meets-javascript/">Nihilogic : Javascript Visualization Demo - Radiohead 'House of Cards'</a> findet ihr eine Visualisierung der Daten mit JavaScript und Canvas (Funktioniert nicht im IE). Viel Spaß beim ausprobieren.</p>

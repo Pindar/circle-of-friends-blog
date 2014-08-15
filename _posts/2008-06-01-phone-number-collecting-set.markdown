@@ -23,7 +23,7 @@ tags:
 - Sam Hubinette
 comments: []
 ---
-<p>... oder aber: "Wie mache ich politisch inkorrekte Werbung". Anbei ein knapp 4-min&Atilde;&frac14;tiger Werbespot f&Atilde;&frac14;r den neuen Lamborghini LP 560-4, einer der besten seiner Art, wie ich finde. Ein Hoch auf den Hersteller der verr&Atilde;&frac14;cktesten Supercars!</p>
-<p>Der Fahrer im Film hei&Atilde;&Yuml;t &Atilde;&frac14;brigens Sam Hubinette, falls sich irgendwer wundern sollte, wer zum Teufel eine so grandiose Fahrzeugbeherrschung hat.</p>
+<p>... oder aber: "Wie mache ich politisch inkorrekte Werbung". Anbei ein knapp 4-minütiger Werbespot für den neuen Lamborghini LP 560-4, einer der besten seiner Art, wie ich finde. Ein Hoch auf den Hersteller der verrücktesten Supercars!</p>
+<p>Der Fahrer im Film heißt übrigens Sam Hubinette, falls sich irgendwer wundern sollte, wer zum Teufel eine so grandiose Fahrzeugbeherrschung hat.</p>
 <p>[youtube rbdZSLmfsXg]</p>
-<p><a href="http:&#47;&#47;www.youtube.com&#47;watch?v=rbdZSLmfsXg">Der Spot bei YouTube<&#47;a></p>
+<p><a href="http://www.youtube.com/watch?v=rbdZSLmfsXg">Der Spot bei YouTube</a></p>

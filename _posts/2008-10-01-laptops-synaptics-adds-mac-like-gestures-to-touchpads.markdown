@@ -24,4 +24,4 @@ tags:
 - driver
 comments: []
 ---
-<p><a href="http:&#47;&#47;lifehacker.com&#47;5057317&#47;synaptics-adds-mac+like-gestures-to-touchpads">Laptops: Synaptics Adds Mac-Like Gestures to Touchpads<&#47;a>.</p>
+<p><a href="http://lifehacker.com/5057317/synaptics-adds-mac+like-gestures-to-touchpads">Laptops: Synaptics Adds Mac-Like Gestures to Touchpads</a>.</p>

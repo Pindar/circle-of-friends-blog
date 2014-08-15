@@ -25,9 +25,9 @@ comments:
   author_url: http://www.pindarsign.de
   date: '2008-06-13 13:26:16 +0200'
   date_gmt: '2008-06-13 11:26:16 +0200'
-  content: Deshalb freue ich mich auf den Firefox 3, dort gelten die &Atilde;&frac14;blichen
-    Tastaturk&Atilde;&frac14;rzel...
+  content: Deshalb freue ich mich auf den Firefox 3, dort gelten die üblichen
+    Tastaturkürzel...
 ---
-<p>Obwohl ich von den neuen, bahnbrechenden Features von Opera 9.5 absolut begeistert bin und mich das neue Aussehen des Browsers (angelehnt an skandinavische Flugh&Atilde;&curren;fen!) total anspricht muss ich mich doch zu einer winzigen Kritik durchringen:<br />
-Sie haben es SCHON WIEDER getan! Opera 9.5 bringt neben den schon erw&Atilde;&curren;hnten Features, die die Erde erbeben lassen, neue Hotkeys mit :-(<br />
-Scheinbar haben die Entwickler noch nicht so ganz mitgekriegt, dass man seine Nutzer ziemlich &Atilde;&curren;rgern kann, wenn man mit jedem Major-Release die Belegung der Hotkeys &Atilde;&curren;ndert....</p>
+<p>Obwohl ich von den neuen, bahnbrechenden Features von Opera 9.5 absolut begeistert bin und mich das neue Aussehen des Browsers (angelehnt an skandinavische Flughäfen!) total anspricht muss ich mich doch zu einer winzigen Kritik durchringen:<br />
+Sie haben es SCHON WIEDER getan! Opera 9.5 bringt neben den schon erwähnten Features, die die Erde erbeben lassen, neue Hotkeys mit :-(<br />
+Scheinbar haben die Entwickler noch nicht so ganz mitgekriegt, dass man seine Nutzer ziemlich ärgern kann, wenn man mit jedem Major-Release die Belegung der Hotkeys ändert....</p>

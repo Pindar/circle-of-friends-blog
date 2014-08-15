@@ -29,7 +29,7 @@ comments:
   author_url: http://
   date: '2008-04-08 15:20:59 +0200'
   date_gmt: '2008-04-08 14:20:59 +0200'
-  content: Die obige Anleitung funktioniert nur mit Gusty Gibbon. Allgemein f&Atilde;&frac14;r
+  content: Die obige Anleitung funktioniert nur mit Gusty Gibbon. Allgemein für
     Linux (auch Windows und Mac OS X) kann ich Floola empfehlen.
 ---
-<p>Wer seinen iPod nano der dritten Generation unter Linux zum laufen bringen will, kommt um ein paar kleine Tricks nicht rum. Die n&Atilde;&para;tigen Schritte finden sich in <a href="http:&#47;&#47;lilserenity.wordpress.com&#47;2007&#47;12&#47;22&#47;virgin-mobile-praise-ubuntu-and-ipod-nano-3g&#47;" target="_blank">diesem Blog<&#47;a>. Das ganze funktioniert auch mit der aktuellen iPod-Firmware 1.1 - "have a lot of fun!"</p>
+<p>Wer seinen iPod nano der dritten Generation unter Linux zum laufen bringen will, kommt um ein paar kleine Tricks nicht rum. Die nötigen Schritte finden sich in <a href="http://lilserenity.wordpress.com/2007/12/22/virgin-mobile-praise-ubuntu-and-ipod-nano-3g/" target="_blank">diesem Blog</a>. Das ganze funktioniert auch mit der aktuellen iPod-Firmware 1.1 - "have a lot of fun!"</p>

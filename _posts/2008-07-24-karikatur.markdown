@@ -28,10 +28,10 @@ comments:
   date_gmt: '2008-07-24 10:18:26 +0200'
   content: "\"Wir werden durch ein langfristig angelegtes Hochschulausbauprogramm
     die Schwer-punkte im Staatshaushalt klar zugunsten der Hochschulen verschieben.
-    Studiengeb&Atilde;&frac14;hren und der Verwaltungsbeitrag werden abgeschafft.\"\r\n-
-    aus dem Wahlprogramm B&Atilde;&frac14;ndnis 90&#47;Die Gr&Atilde;&frac14;nen zur
-    Landtagswahl in Bayern\r\n\r\nF&Atilde;&frac14;r 585 Euro bekommt man viel Benzin,
-    zumal ich finde dass f&Atilde;&frac14;r einen Studenten ein eigenes Auto pures
+    Studiengebühren und der Verwaltungsbeitrag werden abgeschafft.\"\r\n-
+    aus dem Wahlprogramm Bündnis 90/Die Grünen zur
+    Landtagswahl in Bayern\r\n\r\nFür 585 Euro bekommt man viel Benzin,
+    zumal ich finde dass für einen Studenten ein eigenes Auto pures
     Luxusgut ist :-p"
 - id: 3344
   author: Tobi
@@ -39,14 +39,14 @@ comments:
   author_url: ''
   date: '2008-07-24 16:09:23 +0200'
   date_gmt: '2008-07-24 14:09:23 +0200'
-  content: "Also pers&Atilde;&para;nlich kann ich ja das Geheule um die Studiengeb&Atilde;&frac14;hren
-    nicht mehr h&Atilde;&para;ren ... k&Atilde;&para;nnte sein, dass der Fakt, dass
-    ein gro&Atilde;&Yuml;er Teil meiner Freunde zwischen 10.000 und 20.000 $ pro Jahr
-    f&Atilde;&frac14;r ihr Studium bezahlen, damit zu tun hat - wenn man genau dar&Atilde;&frac14;ber
-    nachdenkt, k&Atilde;&para;nnte es viel schlimmer sein und es kann nicht alles
-    kostenlos sein in der modernen Gesellschaft. Wenn die Studiengeb&Atilde;&frac14;hren
-    der Preis daf&Atilde;&frac14;r sind, die &Atilde;&ndash;kos nicht an der Macht
-    zu haben, bin ich sogar bereit, noch mehr zu zahlen :-p\r\n\r\nEin Auto ist &Atilde;&frac14;brigens
+  content: "Also persönlich kann ich ja das Geheule um die Studiengebühren
+    nicht mehr hören ... könnte sein, dass der Fakt, dass
+    ein großer Teil meiner Freunde zwischen 10.000 und 20.000 $ pro Jahr
+    für ihr Studium bezahlen, damit zu tun hat - wenn man genau darüber
+    nachdenkt, könnte es viel schlimmer sein und es kann nicht alles
+    kostenlos sein in der modernen Gesellschaft. Wenn die Studiengebühren
+    der Preis dafür sind, die &Atilde;&ndash;kos nicht an der Macht
+    zu haben, bin ich sogar bereit, noch mehr zu zahlen :-p\r\n\r\nEin Auto ist übrigens
     Notwendigkeit und nicht Luxus ;)"
 ---
-<p>[caption id="attachment_195" align="alignnone" width="300" caption="ohne Worte"]<a href="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;07&#47;photo.jpg"><img class="size-medium wp-image-195" title="photo" src="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;wp-content&#47;uploads&#47;2008&#47;07&#47;photo-300x212.jpg" alt="Hochschule..." width="300" height="212" &#47;><&#47;a>[&#47;caption]</p>
+<p>[caption id="attachment_195" align="alignnone" width="300" caption="ohne Worte"]<a href="http://www.pindarsign.de/webblog/wp-content/uploads/2008/07/photo.jpg"><img class="size-medium wp-image-195" title="photo" src="http://www.pindarsign.de/webblog/wp-content/uploads/2008/07/photo-300x212.jpg" alt="Hochschule..." width="300" height="212" /></a>[/caption]</p>

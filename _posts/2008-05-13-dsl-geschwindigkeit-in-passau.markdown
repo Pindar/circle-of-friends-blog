@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>weil wir vor kurzem mal &Atilde;&frac14;ber die maximale DSL-Geschwindigkeit in Passau gesprochen haben: ich hab mir gerade ein Linux-Image mit 1.3MB&#47;s gesaugt. Grob &Atilde;&frac14;berschlagen sollten dass um die 10.4mbit sein.... wenn ich doch nur meine Nachbarn mal ganz offline schicken k&Atilde;&para;nnte... ;-)</p>
+<p>weil wir vor kurzem mal über die maximale DSL-Geschwindigkeit in Passau gesprochen haben: ich hab mir gerade ein Linux-Image mit 1.3MB/s gesaugt. Grob überschlagen sollten dass um die 10.4mbit sein.... wenn ich doch nur meine Nachbarn mal ganz offline schicken könnte... ;-)</p>

@@ -21,4 +21,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Eine interessante Abhandlung und ein ebenfalls sehr aufschlussreicher Kommentar findet sich auf den Seiten von&Acirc;&nbsp;<a href="http:&#47;&#47;www.metamodel.com&#47;article.php?story=20030115211223271" target="_blank" title="What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model?">metamodel.com<&#47;a>. Danach kann man die&Acirc;&nbsp;Begrifflichkeiten&Acirc;&nbsp;wenigstens grob unterscheiden.</p>
+<p>Eine interessante Abhandlung und ein ebenfalls sehr aufschlussreicher Kommentar findet sich auf den Seiten von&Acirc;&nbsp;<a href="http://www.metamodel.com/article.php?story=20030115211223271" target="_blank" title="What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model?">metamodel.com</a>. Danach kann man die&Acirc;&nbsp;Begrifflichkeiten&Acirc;&nbsp;wenigstens grob unterscheiden.</p>

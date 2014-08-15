@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>Unter http:&#47;&#47;www.powerset.com&#47; ist die (meines Wissens nach) erste semantische Websuche online gegangen. Zwar werden bisher nur sehr wenige Seiten indiziert, aber die Seite konnte meine Fragen nach dem Wohnort und dem Alter von George W. Bush beantworten.</p>
-<p>Sehr beeindruckend, diese Technik endlich&Acirc;&nbsp;in der Realit&Atilde;&curren;t&Acirc;&nbsp;zu sehen.</p>
+<p>Unter http://www.powerset.com/ ist die (meines Wissens nach) erste semantische Websuche online gegangen. Zwar werden bisher nur sehr wenige Seiten indiziert, aber die Seite konnte meine Fragen nach dem Wohnort und dem Alter von George W. Bush beantworten.</p>
+<p>Sehr beeindruckend, diese Technik endlich&Acirc;&nbsp;in der Realität&Acirc;&nbsp;zu sehen.</p>

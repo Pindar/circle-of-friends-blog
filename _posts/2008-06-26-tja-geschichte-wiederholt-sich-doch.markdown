@@ -20,7 +20,7 @@ categories:
 tags:
 - EM
 - Euro2008
-- Fu&Atilde;&Yuml;ball
+- Fußball
 comments:
 - id: 2632
   author: NimroT
@@ -28,12 +28,12 @@ comments:
   author_url: ''
   date: '2008-06-27 09:15:03 +0200'
   date_gmt: '2008-06-27 07:15:03 +0200'
-  content: Humpta humpta humpta t&Atilde;&curren;t&Atilde;&curren;r&Atilde;&curren;&Atilde;&curren;&Atilde;&curren;&Atilde;&curren;
+  content: Humpta humpta humpta tätärääää
     ;-)
 ---
 <p>Sessen mitnander,</p>
-<p>wiedereinmal standen die T&Atilde;&frac14;rken vor Wien. Fast h&Atilde;&curren;tten sie es geschafft dort einzuziehen, doch 11 mutige deutsche M&Atilde;&curren;nner konnten das verhindern.<br />
+<p>wiedereinmal standen die Türken vor Wien. Fast hätten sie es geschafft dort einzuziehen, doch 11 mutige deutsche Männer konnten das verhindern.<br />
 Guad g'macht Buam!</p>
 <p>FIIINALE!</p>
-<p>Gru&Atilde;&Yuml;<br />
+<p>Gruß<br />
 Strahler</p>

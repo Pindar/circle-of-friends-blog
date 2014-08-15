@@ -30,10 +30,10 @@ comments: []
 ---
 <p>Hier einige interessante Projekte die in Zusammenhang mit OpenSource, Haskell und Webtechnologien stehen:</p>
 <ul>
-<li>Ein Projekt, das einen&Acirc;&nbsp;Webserver basierend auf JavaScript und GoogleGears umsetzte. Eine interessante Idee, wenn gleich nicht f&Atilde;&frac14;r den produktiven Webservereinsatz gedacht, die damit zeigt wie m&Atilde;&curren;chtig JavaScript zusammen mit GoogleGears und einigen Frameworks mittlerweile ist. N&Atilde;&curren;heres dazu findet ihr auf der Seite sowie auch entsprechende Demoapp:<br />
-<a href="http:&#47;&#47;joose-js.blogspot.com&#47;search&#47;label&#47;JSCloud" target="_blank">http:&#47;&#47;joose-js.blogspot.com&#47;search&#47;label&#47;JSCloud<&#47;a><&#47;li></p>
-<li>Eine Webseite, die zur Sammlung von OpenSource Software gestartet wurde. Diese wird vom&Acirc;&nbsp;yeebase Verlag betrieben und wird dadurch vielleicht etwas bekannter als die <a href="http:&#47;&#47;www.pindarsign.de&#47;webblog&#47;?p=52">bestehende Plattform<&#47;a>.<br />
-<a href="http:&#47;&#47;opensource.yeebase.com&#47;" target="_blank">http:&#47;&#47;opensource.yeebase.com&#47;<&#47;a><&#47;li></p>
-<li>Ein <a href="http:&#47;&#47;articles.bluishcoder.co.nz&#47;Haskell&#47;NotAHAppSTutorial" target="_blank">Wiki<&#47;a>&Acirc;&nbsp;&Atilde;&frac14;ber ein auf&Acirc;&nbsp;<a href="http:&#47;&#47;www.happs.org&#47;" target="_blank">Haskell basierendes&Acirc;&nbsp;Web Application Framework<&#47;a>. F&Atilde;&frac14;r alle die gerne "ausgefallene" Programmiersprachen auch im Web einsetzen wollen kann das als guter und einfacher Einstieg dienen.<br />
-<a href="http:&#47;&#47;articles.bluishcoder.co.nz&#47;Haskell&#47;NotAHAppSTutorial" target="_blank">http:&#47;&#47;articles.bluishcoder.co.nz&#47;Haskell&#47;NotAHAppSTutorial<&#47;a><&#47;li><br />
-<&#47;ul></p>
+<li>Ein Projekt, das einen&Acirc;&nbsp;Webserver basierend auf JavaScript und GoogleGears umsetzte. Eine interessante Idee, wenn gleich nicht für den produktiven Webservereinsatz gedacht, die damit zeigt wie mächtig JavaScript zusammen mit GoogleGears und einigen Frameworks mittlerweile ist. Näheres dazu findet ihr auf der Seite sowie auch entsprechende Demoapp:<br />
+<a href="http://joose-js.blogspot.com/search/label/JSCloud" target="_blank">http://joose-js.blogspot.com/search/label/JSCloud</a></li></p>
+<li>Eine Webseite, die zur Sammlung von OpenSource Software gestartet wurde. Diese wird vom&Acirc;&nbsp;yeebase Verlag betrieben und wird dadurch vielleicht etwas bekannter als die <a href="http://www.pindarsign.de/webblog/?p=52">bestehende Plattform</a>.<br />
+<a href="http://opensource.yeebase.com/" target="_blank">http://opensource.yeebase.com/</a></li></p>
+<li>Ein <a href="http://articles.bluishcoder.co.nz/Haskell/NotAHAppSTutorial" target="_blank">Wiki</a>&Acirc;&nbsp;über ein auf&Acirc;&nbsp;<a href="http://www.happs.org/" target="_blank">Haskell basierendes&Acirc;&nbsp;Web Application Framework</a>. Für alle die gerne "ausgefallene" Programmiersprachen auch im Web einsetzen wollen kann das als guter und einfacher Einstieg dienen.<br />
+<a href="http://articles.bluishcoder.co.nz/Haskell/NotAHAppSTutorial" target="_blank">http://articles.bluishcoder.co.nz/Haskell/NotAHAppSTutorial</a></li><br />
+</ul></p>

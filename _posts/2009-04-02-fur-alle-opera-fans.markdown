@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: F&Atilde;&frac14;r alle Opera-Fans
+title: Für alle Opera-Fans
 author: Pindar
 author_login: Pindar
 
@@ -17,5 +17,5 @@ tags:
 - joke
 comments: []
 ---
-<p>... und die Spa&Atilde;&Yuml; am 1. April hatten:</p>
+<p>... und die Spaß am 1. April hatten:</p>
 <p>[youtube kkNxbyp6thM]</p>

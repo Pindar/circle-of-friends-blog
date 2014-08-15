@@ -23,4 +23,4 @@ tags:
 - vpn
 comments: []
 ---
-<p>Wer des &Atilde;&para;fteren mit einem Omin&Atilde;&para;sen Fehlercode 51 "Unable to communicate with the VPN subsystem" konfrontiert wird, findet auf den <a title="L&Atilde;&para;sungen zu Fehlermeldungen vom Cisco VPN-Client" href="http:&#47;&#47;helpdesk.ugent.be&#47;vpn&#47;en&#47;faq_cisco.php?id=51" target="_blank">FAQ Seiten der "Universiteit Gent" die L&Atilde;&para;sung<&#47;a> und zus&Atilde;&curren;tzlich eine Liste mit weiteren Fehlerl&Atilde;&para;sungen rund um VPN.<&#47;p></p>
+<p>Wer des öfteren mit einem Ominösen Fehlercode 51 "Unable to communicate with the VPN subsystem" konfrontiert wird, findet auf den <a title="Lösungen zu Fehlermeldungen vom Cisco VPN-Client" href="http://helpdesk.ugent.be/vpn/en/faq_cisco.php?id=51" target="_blank">FAQ Seiten der "Universiteit Gent" die Lösung</a> und zusätzlich eine Liste mit weiteren Fehlerlösungen rund um VPN.</p></p>

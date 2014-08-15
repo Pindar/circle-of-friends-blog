@@ -40,7 +40,7 @@ comments:
   author_url: ''
   date: '2007-03-01 20:55:42 +0100'
   date_gmt: '2007-03-01 19:55:42 +0100'
-  content: das ist dann wohl der Nachteil vom Schengener Abkommen.... da k&Atilde;&para;nnte
+  content: das ist dann wohl der Nachteil vom Schengener Abkommen.... da könnte
     ich auf das billige Benzin wirklich verzichten.
 ---
-<p>Passau ist ein gef&Atilde;&curren;hrliches Pflaster: <a href="http:&#47;&#47;www.polizei.bayern.de&#47;niederbayern&#47;passau&#47;news&#47;presse&#47;aktuell&#47;index.html&#47;35391">Artikel<&#47;a></p>
+<p>Passau ist ein gefährliches Pflaster: <a href="http://www.polizei.bayern.de/niederbayern/passau/news/presse/aktuell/index.html/35391">Artikel</a></p>

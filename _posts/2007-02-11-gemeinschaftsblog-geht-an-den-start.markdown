@@ -27,5 +27,5 @@ comments:
   date_gmt: '2007-02-11 14:42:53 +0100'
   content: Pindar du bist der Beste!
 ---
-<p>Der passauer Nebel, Pr&Atilde;&frac14;fungen und alle anderen Hindernisse haben uns nicht daran gehindert euch ab dem heutigen Tag mit viel (Un)sinn und allerlei anderen literarischen k&Atilde;&para;stlichkeiten zu verw&Atilde;&para;hnen.</p>
-<p>Im Moment sind wir zwei schreibende und so darf ich alle einladen unsere Ideen gelegentlich hier zu lesen. Viel Spa&Atilde;&Yuml;!</p>
+<p>Der passauer Nebel, Prüfungen und alle anderen Hindernisse haben uns nicht daran gehindert euch ab dem heutigen Tag mit viel (Un)sinn und allerlei anderen literarischen köstlichkeiten zu verwöhnen.</p>
+<p>Im Moment sind wir zwei schreibende und so darf ich alle einladen unsere Ideen gelegentlich hier zu lesen. Viel Spaß!</p>

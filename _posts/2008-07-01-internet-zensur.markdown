@@ -26,11 +26,11 @@ comments:
   date: '2008-07-03 17:42:17 +0200'
   date_gmt: '2008-07-03 15:42:17 +0200'
   content: Hm, also man muss auch sagen dass man sich generell nicht allein auf die
-    ausk&Atilde;&frac14;nfte einer kommerziellen Firma verlassen sollte. Das nicht
-    nur Google, sondern auch diverse Regierungen entscheiden was vom Pr&Atilde;&curren;sentierteller
+    auskünfte einer kommerziellen Firma verlassen sollte. Das nicht
+    nur Google, sondern auch diverse Regierungen entscheiden was vom Präsentierteller
     weg soll, ist meiner Meinung nach nur die Spitze des Eisberges!
 ---
 <p>Beim Thema Internet-Zensur wird meist ziemlich schnell mit dem Finger auf das Beispiel "China" gezeigt. Dort werden z.B. von Google Suchergebnisse mit dem Hinweis ausgeblendet, dass die chinesische Regierung diesen Inhalt verboten hat.<br />
-Was aber scheinbar kaum bekannt ist (zumindest ich hab noch nie davon geh&Atilde;&para;rt) ist, dass auch unsere Bundesregierung eine "Blacklist" bei Google pflegt. Seiten die so aus dem Suchindex verschwinden werden aber NICHT durch eine Notiz ("wird nicht angezeigt wegen blablabla....") angezeigt. Dabei handelt es sich sogar bei weitem nicht nur um die "Klassiker" wie rechtsradikales Material.</p>
+Was aber scheinbar kaum bekannt ist (zumindest ich hab noch nie davon gehört) ist, dass auch unsere Bundesregierung eine "Blacklist" bei Google pflegt. Seiten die so aus dem Suchindex verschwinden werden aber NICHT durch eine Notiz ("wird nicht angezeigt wegen blablabla....") angezeigt. Dabei handelt es sich sogar bei weitem nicht nur um die "Klassiker" wie rechtsradikales Material.</p>
 <p>Macht das nur mir Sorgen?</p>
-<p>Quelle f&Atilde;&frac14;r den "Zensur-Vorwurf" ist Vint Cerf w&Atilde;&curren;hrend einer Guest Lecture in Stanford am 9.1.2008.</p>
+<p>Quelle für den "Zensur-Vorwurf" ist Vint Cerf während einer Guest Lecture in Stanford am 9.1.2008.</p>

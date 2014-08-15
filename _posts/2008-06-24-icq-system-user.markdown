@@ -43,7 +43,7 @@ Spitzname: ICQ System<br />
 Vorname: ICQ<br />
 Nachname: System</p>
 <p>Ich habe diesen weder geadded, noch eine Autorisierung vergeben.</p>
-<p>Dazu fand ich folgenden Blogeintrag: http:&#47;&#47;crapted.wordpress.com&#47;2008&#47;06&#47;20&#47;neuer-benutzer-mit-dem-namen-icq-system-mit-der-nr-12111-in-der-kontaktliste</p>
+<p>Dazu fand ich folgenden Blogeintrag: http://crapted.wordpress.com/2008/06/20/neuer-benutzer-mit-dem-namen-icq-system-mit-der-nr-12111-in-der-kontaktliste</p>
 <p>Also, falls jemand auch diesen Kontakt hat, nicht wundern.. wobei.. vielleicht a bissal.</p>
-<p>Gr&Atilde;&frac14;&Atilde;&Yuml;e<br />
+<p>Grüße<br />
 Strahler</p>

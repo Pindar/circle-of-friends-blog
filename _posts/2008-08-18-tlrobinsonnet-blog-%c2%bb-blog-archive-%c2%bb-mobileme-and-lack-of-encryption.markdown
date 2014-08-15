@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: tlrobinson.net &#47; blog &Acirc;&raquo; Blog Archive &Acirc;&raquo; MobileMe
+title: tlrobinson.net / blog &Acirc;&raquo; Blog Archive &Acirc;&raquo; MobileMe
   and (lack of) encryption
 author:
   display_name: Pindar
@@ -22,4 +22,4 @@ tags:
 - apple
 comments: []
 ---
-<p><a href="http:&#47;&#47;tlrobinson.net&#47;blog&#47;?p=46">tlrobinson.net &#47; blog &Acirc;&raquo; Blog Archive &Acirc;&raquo; MobileMe and (lack of) encryption<&#47;a>.</p>
+<p><a href="http://tlrobinson.net/blog/?p=46">tlrobinson.net / blog &Acirc;&raquo; Blog Archive &Acirc;&raquo; MobileMe and (lack of) encryption</a>.</p>

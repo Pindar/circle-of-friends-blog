@@ -27,6 +27,6 @@ comments:
   author_url: http://hammerburgen.myminicity.com
   date: '2008-10-02 16:44:09 +0200'
   date_gmt: '2008-10-02 14:44:09 +0200'
-  content: 'Passau ist ja fast noch d&Atilde;&para;rflich. Schau mal hier: http:&#47;&#47;hammerburgen.myminicity.com&#47;com'
+  content: 'Passau ist ja fast noch dörflich. Schau mal hier: http://hammerburgen.myminicity.com/com'
 ---
-<p>Ein nettes Online-Spiel, oder wie man es auch immer nennen will, findet sich unter <a href="http:&#47;&#47;www.myminicity.com" target="_blank">www.myminicity.com<&#47;a>. Dort kann man seine eigene Stadt anlegen und durch einfache Seitenaufrufe weiterentwickeln. Schaut einfach mal auf <a href="http:&#47;&#47;passau.myminicity.com" target="_blank">passau.myminicity.com<&#47;a> und helft mit Passau gro&Atilde;&Yuml; zu machen! Viel Spa&Atilde;&Yuml; beim klicken!<&#47;p></p>
+<p>Ein nettes Online-Spiel, oder wie man es auch immer nennen will, findet sich unter <a href="http://www.myminicity.com" target="_blank">www.myminicity.com</a>. Dort kann man seine eigene Stadt anlegen und durch einfache Seitenaufrufe weiterentwickeln. Schaut einfach mal auf <a href="http://passau.myminicity.com" target="_blank">passau.myminicity.com</a> und helft mit Passau groß zu machen! Viel Spaß beim klicken!</p></p>

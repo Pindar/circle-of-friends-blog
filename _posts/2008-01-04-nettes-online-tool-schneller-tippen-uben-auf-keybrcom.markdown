@@ -21,5 +21,5 @@ tags:
 - tools keyboard
 comments: []
 ---
-<p>Auf <a href="http:&#47;&#47;keybr.com" target="_blank">keybr.com<&#47;a> findet sich ein kostenloses Tool, welches einem einige Buchstaben vorgibt, die man dann tippen soll. Die Tipp-Geschwindigkeit und die Fehlerrate bekommt man live angezeigt.<&#47;p></p>
-<p>Ein Nachteil daran ist, dass die Texte keinen Sinn ergeben, sondern man wirklich einzelne Buchstaben lesen muss - nicht gerade einfach so ein gutes Ergebnis zu erhalten, auch wenn man normal sehr schnell Texte abtippen kann. Trotzdem ist es gerade f&Atilde;&frac14;r Anf&Atilde;&curren;nger ein sehr nettes Tool, da es auch die Tastatur am Bildschirm anzeigt und man sich so das "auf die Tastatur schauen" leichter abgew&Atilde;&para;hnen kann. Ich w&Atilde;&frac14;nsch also viel Spa&Atilde;&Yuml; beim ausprobieren!<&#47;p></p>
+<p>Auf <a href="http://keybr.com" target="_blank">keybr.com</a> findet sich ein kostenloses Tool, welches einem einige Buchstaben vorgibt, die man dann tippen soll. Die Tipp-Geschwindigkeit und die Fehlerrate bekommt man live angezeigt.</p></p>
+<p>Ein Nachteil daran ist, dass die Texte keinen Sinn ergeben, sondern man wirklich einzelne Buchstaben lesen muss - nicht gerade einfach so ein gutes Ergebnis zu erhalten, auch wenn man normal sehr schnell Texte abtippen kann. Trotzdem ist es gerade für Anfänger ein sehr nettes Tool, da es auch die Tastatur am Bildschirm anzeigt und man sich so das "auf die Tastatur schauen" leichter abgewöhnen kann. Ich wünsch also viel Spaß beim ausprobieren!</p></p>

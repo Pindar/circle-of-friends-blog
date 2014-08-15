@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Adobe Flex Builder kostenlos (f&Atilde;&frac14;r Studenten)
+title: Adobe Flex Builder kostenlos (für Studenten)
 author:
   display_name: Pindar
   login: Pindar
@@ -28,7 +28,7 @@ comments:
   author_url: http://www.pindarsign.de
   date: '2008-06-27 12:55:57 +0200'
   date_gmt: '2008-06-27 10:55:57 +0200'
-  content: Einen &Atilde;&oelig;berblick, was man mit Flex 3 machen kann findet ihr
-    in einem sp&Atilde;&curren;teren Blogeintrag &Atilde;&frac14;ber MXML und Flex.
+  content: Einen Überblick, was man mit Flex 3 machen kann findet ihr
+    in einem späteren Blogeintrag über MXML und Flex.
 ---
-<p>Eben habe ich auf den Seiten des <a href="http:&#47;&#47;www.rz.uni-passau.de&#47;416.html?&tx_ttnews[tt_news]=146&tx_ttnews[backPid]=1&cHash=039ceee79d" target="_blank">Rechenzentrums der Universit&Atilde;&curren;t Passau<&#47;a> gelesen, dass f&Atilde;&frac14;r Studenten, Sch&Atilde;&frac14;ler und Bildungseinrichtungen die Software Flex 3 von Adobe kostenlos zur Verf&Atilde;&frac14;gung steht (F&Atilde;&frac14;r MAC und Win). Also gleich <a href="http:&#47;&#47;www.flexregistration.com&#47;" target="_blank">holen<&#47;a> :)<&#47;p></p>
+<p>Eben habe ich auf den Seiten des <a href="http://www.rz.uni-passau.de/416.html?&tx_ttnews[tt_news]=146&tx_ttnews[backPid]=1&cHash=039ceee79d" target="_blank">Rechenzentrums der Universität Passau</a> gelesen, dass für Studenten, Schüler und Bildungseinrichtungen die Software Flex 3 von Adobe kostenlos zur Verfügung steht (Für MAC und Win). Also gleich <a href="http://www.flexregistration.com/" target="_blank">holen</a> :)</p></p>
