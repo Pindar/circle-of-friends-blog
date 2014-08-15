@@ -2,7 +2,7 @@
 title: circle of friends | blog
 email: me@pindarsign.de
 description: ""
-baseurl: ""
+baseurl: "/circle-of-friends-blog/"
 url: "http://www.pindarsign.com"
 twitter_username: SimonDittlmann
 github_username:  SimonDittlmann
@@ -16,5 +16,3 @@ relative_permalinks: true
 # Gems
 gems:
   - jekyll-redirect-from
-
-base_path : /circle-of-friends-blog/
