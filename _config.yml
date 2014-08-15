@@ -11,6 +11,8 @@ github_username:  SimonDittlmann
 markdown: kramdown
 permalink: pretty
 
+relative_permalinks: true
+
 # Gems
 gems:
   - jekyll-redirect-from
