@@ -22,6 +22,7 @@ excerpt: "<strong>Introduction</strong>\r\nHere, I'm describing how to set up
   encrypted partition\r\n"
 wordpress_id: 767
 wordpress_url: http://www.pindarsign.de/webblog/?p=767
+redirect_from: "/webblog/?p=767"
 date: '2009-02-27 20:41:16 +0100'
 date_gmt: '2009-02-27 19:41:16 +0100'
 categories:
