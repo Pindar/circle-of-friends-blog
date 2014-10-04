@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New blog www.itnotes.de"
+date:   2014-10-04
+categories: blog
+comments: false
+---
+
+Please visit my new blog [www.itnotes.de](www.itnotes.de).
