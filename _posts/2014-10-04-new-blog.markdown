@@ -6,4 +6,4 @@ categories: blog
 comments: false
 ---
 
-Please visit my new blog [www.itnotes.de](www.itnotes.de).
+Please visit my new blog [www.itnotes.de](http://www.itnotes.de).
